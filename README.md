@@ -7,4 +7,4 @@ Jalankan `main.py` di terminal. Ikuti instruksi buat masukin data pemasukan atau
 - Simpan ke saldo.xlsx
 - Validasi angka dan tanggal
 
-Proyek ini dibuat buat latihan Python dan data handling. Belum pakai GUI, tapi rencana ke depan mau ditambah.
+Proyek ini dibuat buat latihan Python dan data handling. Belum menggunakan GUI
